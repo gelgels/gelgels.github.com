@@ -9,7 +9,7 @@ tagline: los angeles native | ucla computer science | tech enthusiast
 <div class="post_container">
   {% for post in site.posts %}
     <div class="post">
-      <h2>
+      <h2 style="display:inline">
         <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
       </h2>
       &raquo;
