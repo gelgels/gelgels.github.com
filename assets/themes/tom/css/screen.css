@@ -93,12 +93,12 @@ ul.posts {
 }
 
   .site .title a {
-    color: #a00;
+    color: #3333cc;
     text-decoration: none;
   }
 
   .site .title a:hover {
-    color: black;
+    color: #ff7519;
   }
 
   .site .title a.extra {
