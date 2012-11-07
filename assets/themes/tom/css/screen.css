@@ -165,6 +165,10 @@ ul.posts {
     margin-left: 1.35em;
   }
 
+  #post img {
+    max-width: 100%;
+  }
+
   #post code {
     border: 1px solid #ddd;
     background-color: #eef;
