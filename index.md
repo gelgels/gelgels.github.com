@@ -6,16 +6,17 @@ tagline: los angeles native | ucla computer science | tech enthusiast
 {% include JB/setup %}
 
 
-<ul class="posts">
+<div class="post_container">
   {% for post in site.posts %}
-    <li>
-      <span>
-        {{ post.date | date_to_string }}
-      </span> &raquo;
-      <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+    <div class="post">
+      <h2>
+        <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+      </h2>
+      &raquo;
+      <span> {{ post.date | date_to_string }} </span>
+      <br>
       {{ post.content | strip_html | truncatewords:100 }}
-    </li>
+    </div>
   {% endfor %}
-</ul>
-
+</div>
 
