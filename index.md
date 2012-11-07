@@ -14,8 +14,9 @@ tagline: los angeles native | ucla computer science | tech enthusiast
       </h2>
       &raquo;
       <span> {{ post.date | date_to_string }} </span>
-      <br>
-      {{ post.content | strip_html | truncatewords:100 }}
+      <p class="excerpt">
+        {{ post.content | strip_html | truncatewords:100 }}
+      </p>
     </div>
   {% endfor %}
 </div>
