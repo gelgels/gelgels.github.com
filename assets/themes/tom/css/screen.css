@@ -98,7 +98,7 @@ ul.posts {
   }
 
   .site .title a:hover {
-    color: #ff7519;
+    color: black;
   }
 
   .site .title a.extra {
@@ -108,7 +108,7 @@ ul.posts {
   }
 
   .site .title a.extra:hover {
-    color: black;
+    color: #ff7519;
   }
 
   .site .meta {
