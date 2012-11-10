@@ -8,7 +8,7 @@ tagline: los angeles native | ucla computer science | tech enthusiast
 <div id="about_me">
 
   <div id="about_left">
-    ![Profile picture](/images/about_me.jpg)
+    <img src="/images/about_me.jpg" alt="Profile picture"/>
   </div>
 
   <div id="about_right">
