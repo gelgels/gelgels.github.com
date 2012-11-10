@@ -199,3 +199,31 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+/*****************************************************************************/
+/*
+/* About me
+/*
+/*****************************************************************************/
+
+#about_me {
+  width: 100%;
+  height: auto;
+}
+
+
+#about_left {
+  width: 40%;
+  display: block;
+  float: left;
+}
+
+#about_left img {
+  width: 100%;
+}
+
+#about_right {
+  width: 60%;
+  display: block;
+  float: left;
+}
