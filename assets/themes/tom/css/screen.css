@@ -223,7 +223,8 @@ ul.posts {
 }
 
 #about_right {
-  width: 60%;
+  width: 55%;
   display: block;
   float: left;
+  margin-left: 5%;
 }
