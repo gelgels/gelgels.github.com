@@ -14,7 +14,8 @@ tagline: los angeles native | ucla computer science | tech enthusiast
   <div id="about_right">
     I'm a fourth year computer science major at UCLA. I'm interested in the tech
     industry and I'm always learning new ways to become a better developer.
-    Learn more about my past projects and check out my resume.
+    You can learn more about my personal projects and professional experiences
+    by checking out my <a href="http://github.com/gelgels/Resume">resume</a>.
   </div>
 
 </div>
