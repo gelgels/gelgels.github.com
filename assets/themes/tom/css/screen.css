@@ -208,7 +208,7 @@ ul.posts {
 
 #about_me {
   width: 100%;
-  height: auto;
+  min-height: 300px;
 }
 
 
