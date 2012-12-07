@@ -132,7 +132,8 @@ ul.posts {
       }
 
       .site .footer .contact td img {
-        margin-left: 10px;
+        margin-left: 24px;
+        width: 24px;
       }
 
     .site .footer .rss {
