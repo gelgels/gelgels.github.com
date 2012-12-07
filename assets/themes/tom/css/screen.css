@@ -131,6 +131,10 @@ ul.posts {
         color: #8085C1;
       }
 
+      .site .footer .contact td img {
+        width: 80%;
+      }
+
     .site .footer .rss {
       margin-top: 1.1em;
       margin-right: -.2em;
